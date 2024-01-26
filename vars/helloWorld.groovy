@@ -1,3 +1,3 @@
 def hello() {
-    echo 'Testing shared Libraries'
+    sh 'echo Testing shared Libraries'
 }
