@@ -1,3 +1,3 @@
-def hello() {
+def call() {
     sh 'echo Testing shared Libraries'
 }
